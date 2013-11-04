@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"		"vgui/notices/cg"
+	"$basetexture"		"vgui/notices/dmg"
 	"$ignorez"		1
 	"$vertexcolor" 		1
 	"$vertexalpha" 		1
