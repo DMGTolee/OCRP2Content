@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name" "OCRP2 Content pack"
+	"author_name" "Tolee"
+}
